@@ -50,6 +50,17 @@ Sur un clavier conçu pour les ordinateurs Windows, utilisez la touche Alt plut�
 | **Command (⌘) - Maj (⇧) - 4 + Espace** | Prendre une capture d'une fenêtre ou d'un menu.
 | **Command (⌘) - Virgule (,)** | Ouvrir les préférences de l'application active.
 
+# <h2 id="Finder">Finder</h2>
+
+| Raccourci | Action |
+| :--- | --- |
+| **Command (⌘) - Maj (⇧) - N** | Créer un nouveau dossier dans le Finder.
+| **Command (⌘) - Option (⌥) - Espace** | Recherche Spotlight avec Finder.
+| **Command (⌘) - D** | Dupliquer les fichiers sélectionnés.
+| **Command (⌘) - E** | Éjecter les disques ou volumes sélectionnés.
+| **Command (⌘) - F** | Rechercher dans la fenêtre Finder.
+| **Command (⌘) - I** | Afficher les informations sur les fichiers sélectionnés.
+
 
 # <h2 id="Demarrage">Démarrage</h2>
 
@@ -68,11 +79,3 @@ Lors du démarrage appuyer sur les raccourcis pour accéder à leur actions.
 | **Command (⌘) - N** | Démarrer en mode utilisateur unique. *(Désactivé à partir de Mojave ou plus récent)*  | ✓
 | **T** | Démarrer en mode disque ciblé.  | ✓
 | **Command (⌘) - V** | Démarrer en mode verbose.| ✓
-
-
-# <h2 id="Finder">Finder</h2>
-
-| Raccourci | Action |
-| :--- | --- |
-| **Command (⌘) - Maj (⇧) - N** | Créer un nouveau dossier dans le Finder.
-| **Command (⌘) - Option (⌥) - Espace** | Recherche Spotlight avec Finder.
