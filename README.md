@@ -9,10 +9,10 @@ Une liste exhaustive des raccourcis utiles sur Mac OS.
 
 # <h2 id="Raccourcis-communs">Raccourcis communs</h2>
 Voici les touches clavier de modification qui sont utilisées pour les raccourcis:
-- **Commande** (ou cmd) **⌘**
+- **Commande ⌘** (ou cmd)
 - **Maj ⇧**
-- **Option** (ou alt) **⌥**
-- **Contrôle** (ou ctrl) **⌃**
+- **Option ⌥** (ou alt)
+- **Contrôle ⌃** (ou ctrl)
 - **Verrouillage majuscule ⇪**
 - **fn** 
 
